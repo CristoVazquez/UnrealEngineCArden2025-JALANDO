@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\mycharacterinput.gen.cpp",
+        "Source": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\mycharacterinput.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\mycharacterinput.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\mycharacterinput.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
@@ -18,7 +18,7 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\mycharacterinput.generated.h"
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\mycharacterinput.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

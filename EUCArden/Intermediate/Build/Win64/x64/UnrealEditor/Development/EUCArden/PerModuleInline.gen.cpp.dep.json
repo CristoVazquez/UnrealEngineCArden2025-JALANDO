@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\permoduleinline.gen.cpp",
+        "Source": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],

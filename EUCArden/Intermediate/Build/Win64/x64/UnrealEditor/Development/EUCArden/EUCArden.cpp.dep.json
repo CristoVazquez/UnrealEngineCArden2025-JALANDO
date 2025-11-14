@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\eucarden.cpp",
+        "Source": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\eucarden.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\eucarden.h"
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\eucarden.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

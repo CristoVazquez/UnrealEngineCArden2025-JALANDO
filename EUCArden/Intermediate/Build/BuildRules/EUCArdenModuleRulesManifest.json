@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\rchar\\OneDrive\\Documentos\\GitHub\\UnrealEngineCArden2025\\EUCArden\\Source\\EUCArden\\EUCArden.Build.cs",
-		"C:\\Users\\rchar\\OneDrive\\Documentos\\GitHub\\UnrealEngineCArden2025\\EUCArden\\Source\\EUCArden.Target.cs",
-		"C:\\Users\\rchar\\OneDrive\\Documentos\\GitHub\\UnrealEngineCArden2025\\EUCArden\\Source\\EUCArdenEditor.Target.cs"
+		"C:\\Users\\Usuario\\Documents\\GitHub\\UnrealEngineCArden2025\\EUCArden\\Source\\EUCArden\\EUCArden.Build.cs",
+		"C:\\Users\\Usuario\\Documents\\GitHub\\UnrealEngineCArden2025\\EUCArden\\Source\\EUCArden.Target.cs",
+		"C:\\Users\\Usuario\\Documents\\GitHub\\UnrealEngineCArden2025\\EUCArden\\Source\\EUCArdenEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

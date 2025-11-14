@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\c_npc.cpp",
+        "Source": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\c_npc.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\c_npc.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\c_npc.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
@@ -43,13 +43,13 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\btnode.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\btcompositenode.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\behaviortree.generated.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\aibehaviorcomponent.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\aibehaviorcomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\userdefinedenum.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\userdefinedenum.generated.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\pathmodule.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\pathmodule.generated.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\aibehaviorcomponent.generated.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\c_npc.generated.h"
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\pathmodule.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\pathmodule.generated.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\aibehaviorcomponent.generated.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\c_npc.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

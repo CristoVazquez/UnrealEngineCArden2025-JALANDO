@@ -1,12 +1,12 @@
-"C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Source\EUCArden\MyCharacterInput.cpp"
-/FI"C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\EUCArdenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\Definitions.EUCArden.h"
-/Yu"C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\EUCArdenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\EUCArdenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\MyCharacterInput.cpp.obj"
-/experimental:log "C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\MyCharacterInput.cpp.sarif"
-/sourceDependencies "C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\MyCharacterInput.cpp.dep.json"
-@"C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\EUCArden.Shared.rsp"
+"C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Source\EUCArden\MyCharacterInput.cpp"
+/FI"C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\EUCArdenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\Definitions.EUCArden.h"
+/Yu"C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\EUCArdenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\EUCArdenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\MyCharacterInput.cpp.obj"
+/experimental:log "C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\MyCharacterInput.cpp.sarif"
+/sourceDependencies "C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\MyCharacterInput.cpp.dep.json"
+@"C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\EUCArden.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

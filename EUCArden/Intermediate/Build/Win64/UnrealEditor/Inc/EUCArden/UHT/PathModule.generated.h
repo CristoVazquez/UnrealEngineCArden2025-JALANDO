@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define EUCARDEN_PathModule_generated_h
 
-#define FID_Users_rchar_OneDrive_Documentos_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPathModule(); \
 	friend struct Z_Construct_UClass_APathModule_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(APathModule)
 
 
-#define FID_Users_rchar_OneDrive_Documentos_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	APathModule(APathModule&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~APathModule();
 
 
-#define FID_Users_rchar_OneDrive_Documentos_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_9_PROLOG
-#define FID_Users_rchar_OneDrive_Documentos_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_GENERATED_BODY \
+#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_9_PROLOG
+#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_rchar_OneDrive_Documentos_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_rchar_OneDrive_Documentos_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> EUCARDEN_API UClass* StaticClass<class APathModule>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_rchar_OneDrive_Documentos_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h
+#define CURRENT_FILE_ID FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_PathModule_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

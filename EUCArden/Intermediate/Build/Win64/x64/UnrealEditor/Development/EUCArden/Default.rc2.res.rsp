@@ -84,5 +84,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=EUCArden
-/fo "C:\Users\rchar\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\Default.rc2.res"
+/fo "C:\Users\Usuario\Documents\GitHub\UnrealEngineCArden2025\EUCArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\EUCArden\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
