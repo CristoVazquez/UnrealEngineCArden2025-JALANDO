@@ -1530,3 +1530,158 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.14-17.36.42:333][837]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2025.11.14-17.36.42:333][837]LogShaderCompilers: Display: Material Cache Hits: 26 (20%)
 [2025.11.14-17.36.42:333][837]LogShaderCompilers: Display: ================================================
+[2025.11.14-17.39.37:682][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 359.935120
+[2025.11.14-17.39.38:681][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.14-17.39.38:681][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 360.601135, Update Interval: 305.310211
+[2025.11.14-17.40.26:714][940]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.14-17.40.26:782][941]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.11.14-17.40.33:043][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.14-17.40.33:103][610]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY
+[2025.11.14-17.40.33:103][610]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/UnrealEngineCArden2025/EUCArden/Saved/U98KGKQ41NJYFOGFQM8ZDY79A1D22245BCD6B89C1E9EAFB499001F.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/UnrealEngineCArden2025/EUCArden/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset'
+[2025.11.14-17.40.33:120][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.637 ms
+[2025.11.14-17.40.33:158][610]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.14-17.40.33:158][610]LogContentValidation: Enabled validators:
+[2025.11.14-17.40.33:158][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.14-17.40.33:158][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.14-17.40.33:158][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.14-17.40.33:158][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.14-17.40.33:158][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.14-17.40.33:158][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.14-17.40.33:159][610]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.11.14-17.40.41:938][111]Cmd: DUPLICATE
+[2025.11.14-17.40.41:938][111]Cmd: ACTOR DUPLICATE
+[2025.11.14-17.40.46:186][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.14-17.40.46:243][528]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/22/8QDFFNZCS00IKK5OU3QMAQ
+[2025.11.14-17.40.46:243][528]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/UnrealEngineCArden2025/EUCArden/Saved/8QDFFNZCS00IKK5OU3QMAQA302FEF54D84350862EBAF913F7A7F44.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/UnrealEngineCArden2025/EUCArden/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/22/8QDFFNZCS00IKK5OU3QMAQ.uasset'
+[2025.11.14-17.40.46:254][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.759 ms (total: 144.396 ms)
+[2025.11.14-17.40.46:308][528]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.14-17.40.46:308][528]LogContentValidation: Enabled validators:
+[2025.11.14-17.40.46:308][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.14-17.40.46:308][528]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.14-17.40.46:308][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.14-17.40.46:308][528]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.14-17.40.46:308][528]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.14-17.40.46:308][528]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.14-17.40.46:308][528]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.11.14-17.40.59:446][ 88]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.14-17.40.59:453][ 88]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.11.14-17.40.59:453][ 88]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.11.14-17.40.59:454][ 88]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.TransformModifier 
+[2025.11.14-17.40.59:456][ 88]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.492 ms (total: 7.787 ms)
+[2025.11.14-17.40.59:456][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.14-17.40.59:495][ 88]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.11.14-17.40.59:500][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005251s)
+[2025.11.14-17.40.59:500][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005293s)
+[2025.11.14-17.40.59:511][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.11.14-17.40.59:515][ 88]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.11.14-17.40.59:516][ 88]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.14-17.40.59:517][ 88]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.14-17.40.59:517][ 88]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.14-17.40.59:517][ 88]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.14-17.40.59:518][ 88]LogWorldPartition: Display: WorldPartition initialize took 1.928 ms (total: 62.479 ms)
+[2025.11.14-17.40.59:518][ 88]LogPlayLevel: PIE: World Init took: (0.003654s)
+[2025.11.14-17.40.59:519][ 88]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.11.14-17.40.59:519][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.14-17.40.59:519][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.14-17.40.59:519][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.14-17.40.59:519][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.14-17.40.59:519][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.14-17.40.59:519][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.14-17.40.59:519][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.14-17.40.59:519][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.14-17.40.59:519][ 88]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.14-17.40.59:519][ 88]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.14-17.40.59:519][ 88]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.14-17.40.59:521][ 88]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.14-17.40.59:544][ 88]LogAudioMixer: Display: Using Audio Hardware Device Union TV (NVIDIA High Definition Audio)
+[2025.11.14-17.40.59:545][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.14-17.40.59:545][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.14-17.40.59:545][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.14-17.40.59:545][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.11.14-17.40.59:545][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.11.14-17.40.59:548][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.11.14-17.40.59:548][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.11.14-17.40.59:548][ 88]LogInit: FAudioDevice initialized with ID 3.
+[2025.11.14-17.40.59:548][ 88]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.11.14-17.40.59:548][ 88]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.14-17.40.59:551][ 88]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.14-17.40.59:556][ 88]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.11.14-11.40.59
+[2025.11.14-17.40.59:557][ 88]LogWorld: Bringing up level for play took: 0.004986
+[2025.11.14-17.40.59:560][ 88]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.11.14-17.40.59:565][ 88]PIE: Server logged in
+[2025.11.14-17.40.59:566][ 88]PIE: Play in editor total start time 0,113 seconds.
+[2025.11.14-17.41.17:685][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-17.41.17:685][238]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.11.14-17.41.17:686][238]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-17.41.17:686][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-17.41.17:687][238]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.11.14-17.41.17:691][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.14-17.41.17:693][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-17.41.17:702][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.14-17.41.17:703][238]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.14-17.41.17:703][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.11.14-17.41.17:705][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.11.14-17.41.17:712][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.11.14-17.41.17:769][240]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.11.14-17.41.30:184][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.11.14-17.41.30:247][661]LogStall: Shutdown...
+[2025.11.14-17.41.30:247][661]LogStall: Shutdown complete.
+[2025.11.14-17.41.30:289][661]LogSlate: Window 'EUCArden - Unreal Editor' being destroyed
+[2025.11.14-17.41.30:349][661]Cmd: QUIT_EDITOR
+[2025.11.14-17.41.30:349][662]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.14-17.41.30:355][662]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.14-17.41.30:355][662]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.14-17.41.30:355][662]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.14-17.41.30:357][662]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-17.41.30:357][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-17.41.30:357][662]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.11.14-17.41.30:365][662]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.14-17.41.30:365][662]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.14-17.41.30:370][662]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-17.41.30:370][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-17.41.30:371][662]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-17.41.30:371][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-17.41.30:371][662]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-17.41.30:371][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-17.41.30:371][662]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-17.41.30:371][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-17.41.30:371][662]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.14-17.41.30:376][662]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.11.14-17.41.30:376][662]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.11.14-17.41.30:376][662]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.11.14-17.41.30:710][662]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.14-17.41.30:710][662]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.14-17.41.30:710][662]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.11.14-17.41.30:710][662]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.14-17.41.30:710][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.11.14-17.41.30:712][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.11.14-17.41.30:722][662]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.14-17.41.30:722][662]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.14-17.41.30:722][662]LogWindowsTextInputMethodSystem: Activated input method: Español (México) - (Keyboard).
+[2025.11.14-17.41.30:725][662]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.14-17.41.30:725][662]LogExit: Preparing to exit.
+[2025.11.14-17.41.30:743][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.11.14-17.41.31:174][662]LogEditorDataStorage: Deinitializing
+[2025.11.14-17.41.31:276][662]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.14-17.41.31:287][662]LogExit: Editor shut down
+[2025.11.14-17.41.31:289][662]LogExit: Transaction tracking system shut down
+[2025.11.14-17.41.31:367][662]LogExit: Object subsystem successfully closed.
+[2025.11.14-17.41.31:431][662]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.14-17.41.31:617][662]LogMemoryProfiler: Shutdown
+[2025.11.14-17.41.31:617][662]LogNetworkingProfiler: Shutdown
+[2025.11.14-17.41.31:617][662]LoadingProfiler: Shutdown
+[2025.11.14-17.41.31:617][662]LogTimingProfiler: Shutdown
+[2025.11.14-17.41.31:920][662]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.14-17.41.31:955][662]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.14-17.41.31:955][662]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83AFD1E9-4AA2-B50E-4F86-7BA688D7F192%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=d9f1a6ed43463d0931a95dacf075e9b9%7C36d8170bf87648db8a573d7bcd827389%7Cbc64caac-842d-4051-a3d7-e57c133cb1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.14-17.41.32:499][662]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.14-17.41.32:504][662]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.11.14-17.41.32:504][662]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.14-17.41.32:504][662]RenderDocPlugin: plugin has been unloaded.
+[2025.11.14-17.41.32:505][662]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.11.14-17.41.32:506][662]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.14-17.41.32:506][662]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.14-17.41.32:506][662]LogPakFile: Destroying PakPlatformFile
+[2025.11.14-17.41.32:707][662]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.14-17.41.32:736][662]LogExit: Exiting.
+[2025.11.14-17.41.32:754][662]Log file closed, 11/14/25 11:41:32
