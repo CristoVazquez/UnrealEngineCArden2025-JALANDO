@@ -45,6 +45,12 @@
     <ClCompile Include="..\..\Source\EUCArden\AIC_NPC.h">
       <Filter>Source\EUCArden</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\EUCArden\BTService_FindPlayer.cpp">
+      <Filter>Source\EUCArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EUCArden\BTService_FindPlayer.h">
+      <Filter>Source\EUCArden</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\EUCArden\BTTask_FindRandomLocation.cpp">
       <Filter>Source\EUCArden</Filter>
     </ClCompile>
@@ -88,6 +94,12 @@
       <Filter>Source\EUCArden</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\EUCArden\MyActorTest.h">
+      <Filter>Source\EUCArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EUCArden\MyActor_prueba.cpp">
+      <Filter>Source\EUCArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EUCArden\MyActor_prueba.h">
       <Filter>Source\EUCArden</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\EUCArden\MyCharacterInput.cpp">

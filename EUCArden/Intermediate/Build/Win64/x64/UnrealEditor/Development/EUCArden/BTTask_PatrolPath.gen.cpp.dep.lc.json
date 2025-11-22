@@ -1,12 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\bttask_patrolpath.gen.cpp",
+        "Source": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\bttask_patrolpath.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\eucardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\bttask_patrolpath.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden\\definitions.eucarden.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\source\\eucarden\\bttask_patrolpath.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\tasks\\bttask_blackboardbase.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\bttasknode.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\btnode.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\behaviortreetypes.h",
@@ -32,7 +33,8 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aitask.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\btnode.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\bttasknode.generated.h",
-            "c:\\users\\rchar\\onedrive\\documentos\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\bttask_patrolpath.generated.h"
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\bttask_blackboardbase.generated.h",
+            "c:\\users\\usuario\\documents\\github\\unrealenginecarden2025\\eucarden\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden\\uht\\bttask_patrolpath.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -14,16 +14,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define EUCARDEN_BTTask_PatrolPath_generated_h
 
-#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_18_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUBTTask_PatrolPath(); \
 	friend struct Z_Construct_UClass_UBTTask_PatrolPath_Statics; \
 public: \
-	DECLARE_CLASS(UBTTask_PatrolPath, UBTTaskNode, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/EUCArden"), NO_API) \
+	DECLARE_CLASS(UBTTask_PatrolPath, UBTTask_BlackboardBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/EUCArden"), NO_API) \
 	DECLARE_SERIALIZER(UBTTask_PatrolPath)
 
 
-#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UBTTask_PatrolPath(UBTTask_PatrolPath&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~UBTTask_PatrolPath();
 
 
-#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_15_PROLOG
-#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_18_GENERATED_BODY \
+#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_11_PROLOG
+#define FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_18_INCLASS_NO_PURE_DECLS \
-	FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_18_ENHANCED_CONSTRUCTORS \
+	FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Users_Usuario_Documents_GitHub_UnrealEngineCArden2025_EUCArden_Source_EUCArden_BTTask_PatrolPath_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

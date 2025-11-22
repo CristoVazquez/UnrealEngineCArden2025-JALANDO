@@ -1,5 +1,42 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.EUCArden.cpp.obj": [
+			"AIBehaviorComponent.gen.cpp.obj",
+			"AIC_NPC.gen.cpp.obj",
+			"BTTask_FindRandomLocation.gen.cpp.obj",
+			"Car.gen.cpp.obj",
+			"CarModel.gen.cpp.obj",
+			"MyActorTest.gen.cpp.obj",
+			"MyCharacterInput.gen.cpp.obj",
+			"PathModule.gen.cpp.obj",
+			"PlatformActor.gen.cpp.obj",
+			"Temperatura.gen.cpp.obj",
+			"TransformModifier.gen.cpp.obj",
+			"Vehicle.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AIBehaviorComponent.cpp.obj",
+			"BTTask_FindRandomLocation.cpp.obj",
+			"Car.cpp.obj",
+			"CarModel.cpp.obj",
+			"EUCArden.cpp.obj",
+			"MyActorTest.cpp.obj",
+			"MyCharacterInput.cpp.obj",
+			"PathModule.cpp.obj",
+			"PlatformActor.cpp.obj",
+			"Temperatura.cpp.obj",
+			"TransformModifier.cpp.obj",
+			"BTService_FindPlayer.gen.cpp.obj",
+			"BTTask_PatrolPath.gen.cpp.obj",
+			"C_NPC.gen.cpp.obj",
+			"EUCArden.init.gen.cpp.obj",
+			"MyActor_prueba.gen.cpp.obj",
+			"AIC_NPC.cpp.obj",
+			"BTService_FindPlayer.cpp.obj",
+			"BTTask_PatrolPath.cpp.obj",
+			"C_NPC.cpp.obj",
+			"MyActor_prueba.cpp.obj",
+			"Vehicle.cpp.obj"
+		]
 	}
 }

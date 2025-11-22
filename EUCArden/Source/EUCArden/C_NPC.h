@@ -2,7 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
-#include "BehaviorTree\BehaviorTree.h"
+#include "BehaviorTree/BehaviorTree.h" // Corregido el slash '\' por '/'
 #include "AIBehaviorComponent.h"
 #include "C_NPC.generated.h"
 
@@ -15,23 +15,32 @@ public:
 	// Sets default values for this character's properties
 	AC_NPC();
 
-	UBehaviorTree* GetBehaviorTree() const { return  Tree; }
+	// Función getter simple para obtener el árbol
+	UBehaviorTree* GetBehaviorTree() const { return Tree; }
+
+	// --- ESTO ES LO QUE TE FALTABA ---
+	// Array de actores (puntos) para patrullar. 
+	// 'EditAnywhere' te deja arrastrar los puntos en el editor.
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI")
+	TArray<AActor*> Waypoints;
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI", meta = (AllowPrivateAccess = "true"))
+	// El asset del Behavior Tree que asignas en el editor
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI")
 	UBehaviorTree* Tree;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
-	
+
 public:
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI", meta = (AllowPrivateAccess = "true"))
+	// Tu componente personalizado
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI")
 	TObjectPtr<UAIBehaviorComponent> AIBehaviorComp;
 };
